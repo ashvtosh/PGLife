@@ -11,12 +11,12 @@ Use filters to narrow down your search by location, rent, amenities, and more. \
 Click on a listing to view details such as photos, room types, rent, and availability.
 
 ## Features
-Our website offers the following features to help you find a suitable PG:
+Our website offers the following features to help you find a suitable PG: \
 
-Search by city and neighborhood
-Filter by price range, room type, amenities, and more
-View listings with photos and detailed information
-Save your favorite listings and searches for future reference
+Search by city and neighborhood \
+Filter by price range, room type, amenities, and more \
+View listings with photos and detailed information \
+Save your favorite listings and searches for future reference \
 Read reviews and ratings from other users
 
 ## Support
