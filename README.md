@@ -4,10 +4,10 @@ Website for finding PGs in different cities
 Our platform helps you find suitable PGs in different cities. Here's a quick guide to help you get started.
 
 ## Getting Started
-Sign up for an account with your email address and create a profile.
-Choose your preferred city.
-Browse through the list of available PGs.
-Use filters to narrow down your search by location, rent, amenities, and more.
+Sign up for an account with your email address and create a profile. \
+Choose your preferred city. \
+Browse through the list of available PGs. \
+Use filters to narrow down your search by location, rent, amenities, and more. \
 Click on a listing to view details such as photos, room types, rent, and availability.
 
 ## Features
