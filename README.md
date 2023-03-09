@@ -3,7 +3,7 @@ Website for finding PGs in different cities
 
 Our platform helps you find suitable PGs in different cities. Here's a quick guide to help you get started.
 
-Getting Started
+##Getting Started
 Sign up for an account with your email address and create a profile.
 Choose your preferred city.
 Browse through the list of available PGs.
